@@ -5,8 +5,11 @@ Crime Analysis and Risk Detection
 📖 Overview
 
 This project analyzes crime data using pandas, numpy, and sklearn to generate a crime density map. It allows users to:
+
 ✅ Detect high-risk areas based on density estimation.
+
 ✅ Input new observations manually or via file to check risk levels.
+
 ✅ Generate a heatmap of crime hotspots using matplotlib.
 
 
