@@ -49,7 +49,7 @@ If you want to use the pre-built executable, you can download it from the follow
 👉  https://1drv.ms/f/c/77085e0297764dff/EvsDJ0WlJaZJigJmCXLKcosBldCcVTBGwn-fGAL0PayI-g?e=bGscau
 
 After downloading, make sure crim_analyzed.csv is in the same directory as the .exe file.
-
+just download the (ZIP) file.
 Run the executable by double-clicking it or using:
 
 cd path/to/exe
