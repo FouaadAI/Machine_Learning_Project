@@ -44,7 +44,16 @@ Run the executable:
 cd dist
 crime_analysis.exe
 
+If you want to use the pre-built executable, you can download it from the following OneDrive link:
 
+👉  https://1drv.ms/f/c/77085e0297764dff/EvsDJ0WlJaZJigJmCXLKcosBldCcVTBGwn-fGAL0PayI-g?e=bGscau
+
+After downloading, make sure crim_analyzed.csv is in the same directory as the .exe file.
+
+Run the executable by double-clicking it or using:
+
+cd path/to/exe
+crime_analysis.exe
 
 ---
 
